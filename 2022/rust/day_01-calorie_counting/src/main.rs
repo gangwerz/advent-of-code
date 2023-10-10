@@ -28,5 +28,7 @@ fn main() {
 		}
 	}
 
+    let cal_count: u64 = elves[phattest-1].iter().sum();
 	println!("The most Caloric Elf is: {phattest}");
+    println!("\tCarrying {cal_count} Calories");
 }

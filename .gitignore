@@ -1,2 +1,4 @@
 app.exe
 **/target
+**/zig-cache
+**/zig-out
